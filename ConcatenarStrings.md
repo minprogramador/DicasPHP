@@ -1,7 +1,7 @@
 # #Concatenar strings.
 
 ## - Mal uso
-> concatena strings de forma tradicional,com . seguido de espaço antes e depois.
+> concatena strings de forma tradicional, com . seguido de espaço antes e depois.
   
 ```php
 $mensagem = 'E ai ' . $nome . ', você ' . $aparencia . ' hoje!'; 
